@@ -17,8 +17,8 @@ button {
 
 #score {
     display: flex;
-    justify-content: space-between;
-    padding: 100px 500px;
+    justify-content: space-evenly;
+    margin: 100px 0px;
     font-size: 36px;
     font-weight: bold;
     text-align: center;
